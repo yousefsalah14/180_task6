@@ -1,0 +1,8 @@
+use cinema;
+create table thecamp_cinema(
+    id INT  PRIMARY KEY  ,
+    movie_name VARCHAR(50),
+    movie_length Int ,
+    movie_director varchar(50)
+    );
+   
